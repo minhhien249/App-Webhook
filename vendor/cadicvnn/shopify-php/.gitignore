@@ -1,0 +1,17 @@
+/.idea
+ipse files
+.settings
+.buildpath
+.project
+
+# mac files
+.DS_Store
+
+# Composer files
+vendor/
+composer.phar
+composer.lock
+
+# PHPUnit Files
+tests/phpunit.xml
+

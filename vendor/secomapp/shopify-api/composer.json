@@ -1,0 +1,17 @@
+{
+    "name": "secomapp/shopify-api",
+    "type": "library",
+    "description": "Shopify API resources client in PHP",
+    "keywords": ["shopify","api"],
+    "require": {
+        "php": ">=5.4.0",
+        "cadicvnn/shopify-php": "dev-master",
+        "ext-json": "*"
+    },
+    "autoload": {
+        "psr-0": {
+            "Secomapp\\": "src/"
+        }
+    },
+    "license": "MIT"
+}
