@@ -14,6 +14,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="PhpTemplates">
+    <option name="NEW_PHP_FILE_LAST_EXTENSION" value="inc" />
+  </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
       <path value="$PROJECT_DIR$/vendor/symfony/translation" />
@@ -126,9 +129,15 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../app-order" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/secomapp" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\app-webhook\app\Http\Controllers" />
+      <recent name="C:\xampp\htdocs\app-webhook\storage\logs" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="phpunit.xml" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
@@ -146,6 +155,14 @@
       <updated>1638500217219</updated>
       <workItem from="1638500218891" duration="5487000" />
       <workItem from="1638513866398" duration="7201000" />
+      <workItem from="1638581607547" duration="426000" />
+      <workItem from="1638582581103" duration="1666000" />
+      <workItem from="1638584281427" duration="4704000" />
+      <workItem from="1638754369406" duration="25429000" />
+      <workItem from="1638840406638" duration="17763000" />
+      <workItem from="1638892193839" duration="2374000" />
+      <workItem from="1638894595213" duration="1988000" />
+      <workItem from="1638927026894" duration="18381000" />
     </task>
     <servers />
   </component>
@@ -162,5 +179,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
